@@ -1,0 +1,54 @@
+body {
+    background-color: aliceblue;
+}
+
+.form-group {
+    align-items: center;
+}
+
+.main {
+    margin: auto;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-top: 0%;
+    align-items: center;
+}
+
+.input-box {
+    height: auto;
+    width: 300px;
+}
+
+.submit {
+    margin-left: 40px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(5, 99, 130);
+    color: white;
+    border-radius: 2%;
+}
+
+.header {
+    align-items: center;
+    text-decoration: solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 60px;
+    margin-left: auto;
+    width: fit-content;
+    margin-right: auto;
+    font-size: 3rem;
+
+}
+
+.A {
+    padding-left: 50px;
+    margin-top: 30px;
+}
+
+.A1 {
+    margin-top: -50px;
+}
+
+.hidden {
+    display: none;
+}
